@@ -29,3 +29,4 @@ Scale the data by using a StandardScaler that has been fitted to the training da
 <img width="1036" alt="Screen Shot 2023-05-23 at 8 18 53 PM" src="https://github.com/domvilla/deep-learning-challenge/assets/120337088/d12adbb3-cd70-4d01-8d5c-dea155d657fa">
 
 
+<img width="986" alt="Screen Shot 2023-05-23 at 8 21 26 PM" src="https://github.com/domvilla/deep-learning-challenge/assets/120337088/1c425148-a397-42df-a174-37c71d0350aa">
